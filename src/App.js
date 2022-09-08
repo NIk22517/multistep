@@ -111,7 +111,6 @@ const Container = styled.div`
 
 const ProgBar = styled.div`
   width: 300px;
-  margin: 3rem 0 0 0;
 
   @media (max-width: 768px) {
     width: 200px;
