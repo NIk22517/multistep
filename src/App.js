@@ -68,8 +68,8 @@ const AppStyle = styled.div`
 `;
 
 const Container = styled.div`
-  width: 80vw;
-  height: 80vh;
+  width: 60vw;
+  height: 90vh;
   background-color: white;
   display: flex;
   flex-direction: column;
@@ -111,6 +111,7 @@ const Container = styled.div`
 
 const ProgBar = styled.div`
   width: 300px;
+  margin: 2rem;
 
   @media (max-width: 768px) {
     width: 200px;
