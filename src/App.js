@@ -93,7 +93,7 @@ const Container = styled.div`
   }
   button {
     width: 70%;
-    padding: 1rem 6rem;
+    padding: 1rem 5rem;
     border: none;
     background-color: #654de4;
     color: white;
